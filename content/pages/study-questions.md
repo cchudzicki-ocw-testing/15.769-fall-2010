@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Study Questions
-type: CourseSection
 uid: 51a9d950-908a-4277-2d46-3ad7ab312e88
 ---
 
