@@ -47,7 +47,7 @@ Beckman, Sara, and Donald Rosenfield. _Operations Strategy: Competing in the 21s
 
 Fine, Charles H. _Clockspeed: Winning Industry Control in the Age of Temporary Advantage_. Basic Books, 1999. ISBN: 9780738201535.
 
-A list of [optional readings]({{< baseurl >}}/pages/readings#Optional_Readings) is available in the readings of this course.
+A list of {{< resource_link 6c823af4-f33e-c02b-5b8c-094d9580d06a "optional readings" "#Optional_Readings" >}} is available in the readings of this course.
 
 Work Forecast
 -------------
