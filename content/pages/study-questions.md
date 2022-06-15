@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides study questions to guide course readings and case
+  write-ups, and to introduce fundamental ideas that will be discussed in class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Questions
